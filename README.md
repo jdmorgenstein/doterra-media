@@ -1,2 +1,1 @@
-# doterra-media
-Public media host for scheduled social posts (PostPeer fetches raw URLs)
+Public media host for scheduled social posts. Files here are fetched by the posting service at publish time; everything in this repo is content already destined for public social feeds.
